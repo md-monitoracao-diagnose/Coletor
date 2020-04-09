@@ -1,2 +1,6 @@
-# coletor
-Coletor offline do sistema MDM
+# Coletor
+Coletor do Sistema MDM
+
+Disponíveis nas seguintes versões:
+* Android
+* Windows
